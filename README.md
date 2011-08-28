@@ -155,7 +155,7 @@ Pull requests are very welcome! Make sure your patches are well tested.
 The [Guard Team](https://github.com/guard/guard/contributors) for giving us such a nice pice of software
 that is so easy to extend, one *has* to make a plugin for it!
 
-All the authors of the numerous [Guards](http://github.com/guard) avaiable for making the Guard ecosystem
+All the authors of the numerous [Guards](http://github.com/guard) available for making the Guard ecosystem
 so much growing and comprehensive.
 
 ## License
